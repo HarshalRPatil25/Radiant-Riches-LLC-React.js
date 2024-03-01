@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+/* styles.css */
+
+
+.crd{
+  
+ 
+
+border-radius: 12px;
+
+}
+
+.content{
+    
+    display: flex;
+       width: 1024px;
+height: 255px
+   
+}
+
+
+
+img{
+   
+    width: 141px;
+height: 103px;
+margin-top: 7px;
+margin-left: 42px;
+
+}
+
+.text{
+    margin-top: 10px;
+    width: 502px;
+    margin-left: 68px;
+}
+.text1{
+    margin-top: -14px;
+    width: 490px;
+  height: 72px;
+}
+.text1 p{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #4B5665;
+
+
+}
+.h5{
+    width: 53px;
+height: 20px;
+background-color:#F3F9FF ;
+    
+}
+ h5{
+    font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+
+
+
+
+
+    /* margin-top: 10px; */
+}
+.text2{
+    width: 483px;
+height: 72px;
+display:flex;
+flex-direction: column;
+margin-top: 30px;
+margin-left:20px;
+
+}
+.text2 p{
+    width: 483px;
+height: 72px;
+
+
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color:#4B5665;
+}
+.lnk{
+    text-decoration: none;
+    color:#1B88F4
+}
+caption{
+    margin-top: 10px;
+    margin-left: -395px;
+    font-weight: bold;
+}
+label{
+    margin-left: 25px;
+}
+.innerText{
+    display: flex;
+    margin-top: 4px;
+    margin-left: 0px;
+}
+.whyWe{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+.lbl{
+    margin-top: 3px;
+    display: flex;
+}
+.text3{
+    display: flex;
+    align-items: center;
+
+  
+}
+.showMore{
+    margin-top: 0px;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+ol{ 
+    margin-left:-44px;
+    list-style: none;
+    display:flex;
+    margin-top: 14px;
+}
+.ic1{
+    margin-left: 25px;
+}
+.icn2{
+    margin-left: 25px;
+}
+.ic2{
+    margin-left: 25px;
+}
+.icn3{
+    margin-left: 25px;
+}
+.ic3{
+    margin-left:auto ;
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+.navbar {
+  width: 1650px;
+  height: 64px;
+  background-color: #212731;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /* Add margin to the left side of the navbar */
+}
+
+.navbar ul li {
+  display: inline-block;
+  margin-right: 20px; /* Add margin between navbar items */
+}
+
+.navbar-search {
+  margin-left: 480px; /* Adjusted margin from the left edge */
+  float: left;
+  width: 258px; /* Adjusted width of the search bar */
+  margin-right: 20px;
+  margin-top: 15px;
+}
+
+.search-input {
+  padding: 10px 35px 10px 45px;
+  border: none;
+  border-radius: 4px;
+  background-image: url('../Images/search-logo.png');
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  background-size: 20px;
+  color: #fff;
+  font-size: 16px;
+  width: 100%; /* Set search input width to 100% to fill the container */
+  font-family: 'Inter', sans-serif; /* Apply Inter font family */
+}
+
+.categories {
+  margin-left: 79px; /* Push categories to the right edge */
+}
+
+.navbar ul li a {
+
+  display: block;
+  padding: 23px;
+  color: white;
+  text-decoration: none;
+  font-family: 'Inter', sans-serif; /* Apply Inter font family */
+}

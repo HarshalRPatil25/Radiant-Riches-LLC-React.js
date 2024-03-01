@@ -1,0 +1,8 @@
+.container{
+    width: 1006px;
+    margin: left 284px;
+}
+/* styles.css */
+body {
+    overflow-x: hidden; /* Hide horizontal scrollbar for the entire body */
+}

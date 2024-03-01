@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+
+
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the content horizontally */
+  width: 136px; /* Width */
+  height: 34px; /* Height */
+  border: none;
+  border-radius: 0px 8px 8px 0px; /* Border radius */
+  background: #FF7724;
+  padding: 0 12px; /* Padding */
+  color: white;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px; /* Font size */
+  margin-top: 29px;
+}
+
+a svg {
+  margin-right: 8px; /* Margin between SVG image and text */
+}

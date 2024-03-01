@@ -1,0 +1,78 @@
+/* Styles for the Top class */
+Top {
+    margin-top: 100px; /* Adds margin from the top */
+    justify-content: center; /* Horizontally centers content */
+    margin-left: auto; /* Aligns content to the left edge of its container */
+}
+
+/* Styles for the structur class */
+.structur {
+    display: flex; /* Displays elements in a flex container */
+    flex-direction: column; /* Arranges items vertically */
+    justify-content: center; /* Vertically centers content */
+    width: 135px; /* Sets the width of the element */
+    height: 118px; /* Sets the height of the element */
+    margin-top: 15px; /* Reduced margin-top */
+    margin-left: 84px; /* Adds margin from the left */
+    border-radius: 0px 0px 12px 12px; /* Adds rounded corners */
+}
+
+/* Styles for the srct class */
+.srct {
+    background-color: #F3F9FF; /* Sets the background color */
+    justify-content: center; /* Centers content horizontally */
+    margin-top: -28px; /* Moves the element up */
+    margin-left: 45px; /* Adds margin from the left */
+    width: 135px; /* Sets the width of the element */
+    height: 118px; /* Sets the height of the element */
+    border-radius: 0px, 0px, 14px, 14px; /* Adds rounded corners */
+}
+
+/* Styles for the h3 tag */
+h3 {
+    margin-left: 93px; /* Adds margin from the left */
+}
+
+/* Styles for the h4 tag */
+h4 {
+    width: 50px; /* Sets the width of the element */
+    height: 48px; /* Sets the height of the element */
+    margin-top: -30px; /* Moves the element up */
+    text-align: center; /* Centers text horizontally */
+    margin-left: 43px; /* Adds margin from the left */
+    font-family: Inter; /* Sets the font family */
+    font-size: 32px; /* Sets the font size */
+    font-weight: 400; /* Sets the font weight */
+    line-height: 48px; /* Sets the line height */
+    letter-spacing: 0em; /* Sets the letter spacing */
+    text-align: left; /* Aligns text to the left */
+}
+
+/* Styles for the h5 tag */
+h5 {
+    width: 79px; /* Sets the width of the element */
+    height: 20px; /* Sets the height of the element */
+    position: relative; /* Positions the element relative to its normal position */
+    margin-top: -40px; /* Moves the element up */
+    margin-left: 28px; /* Adds margin from the left */
+    font-family: Inter; /* Sets the font family */
+    font-size: 14px; /* Sets the font size */
+    font-weight: 400; /* Sets the font weight */
+    line-height: 20px; /* Sets the line height */
+    letter-spacing: 0em; /* Sets the letter spacing */
+    text-align: center; /* Centers text horizontally */
+}
+
+/* Styles for the Stars class */
+.Stars {
+    width: 66px; /* Sets the width of the element */
+    height: 11px; /* Sets the height of the element */
+    margin-top: -20px; /* Moves the element up */
+    margin-left: 35px; /* Adds margin from the left */
+    justify-content: center; /* Centers content horizontally */
+}
+
+/* Styles for the View class */
+.View {
+    margin-top: 65px; /* Adds margin from the top */
+}

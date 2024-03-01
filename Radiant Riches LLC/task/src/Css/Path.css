@@ -1,0 +1,48 @@
+/* ul{
+   margin-left: -34px;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+dt{
+    margin-left: 5px;
+    margin-top:24px;
+    list-style: none;
+    display: flex;
+}
+li{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.Path2{
+    margin-left: 10px;
+    width:10px;
+}
+.Path3{
+    margin-left: 10px;
+
+}
+.Path4{
+    margin-left: 10px;
+    width:10px;
+}
+.Path5{
+    margin-left: 10px;
+}
+.Path6{
+    margin-left: 10px;
+    width:10px;
+}
+.Path7{
+    margin-left: 10px;
+}
+.Path8{
+    margin-left: 10px;
+    width:10px;
+}
+.Path9{
+    margin-left: 10px;
+}

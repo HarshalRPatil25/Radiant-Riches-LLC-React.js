@@ -1,0 +1,155 @@
+.Footer{
+    width: 1692px;
+height: 452px;
+background-color: #212731;
+
+
+
+}
+.Lists1{margin-top:59px;
+
+}
+.ln{
+    display: flex;
+    flex-direction: column;
+    margin-left: 295px;
+    color: #fff;
+    margin-top:50px;
+}
+.ln1{
+    color: #fff;
+    margin-top:36px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+    
+
+}
+.ln2{
+    color: #fff;
+    margin-top:30px;
+    font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.ln3{
+    color: #fff;
+    margin-top:30px;
+    font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+    
+
+}
+.ln4{
+    color: #fff;
+    margin-top:30px;
+    font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.ln5{
+    color: #fff;
+    margin-top:30px;
+    font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.lns{
+    display: flex;
+    flex-direction: column;
+    margin-left: 636px;
+    color: #fff;
+    margin-top:-100px;
+}
+.lns1{
+    color: #fff;
+    margin-top:-136px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.lns2{
+    color: #fff;
+    margin-top:30px;
+    font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.lns3{
+    color: #fff;
+    margin-top:30px;
+    font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.lns4{
+    color: #fff;
+    margin-top:30px;
+    font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.lns5{
+    color: #fff;
+    margin-top:30px;
+    font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.lns6{
+    color: #fff;
+    margin-top:30px;
+    font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
